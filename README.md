@@ -70,7 +70,7 @@ http://127.0.0.1:5000
 
 ## Author
 
-**Nishant Kumar**
+**Chandan Beura**
 
 * GitHub: https://github.com/Chandu10101
 
